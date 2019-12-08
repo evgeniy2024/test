@@ -1,0 +1,45 @@
+body {
+	margin:0;
+	padding:0;
+	background-color:#7E7EA4;
+	background-image:url(images/ava7patterns_pattern_1289.png);
+    background-repeat:repeat;
+}
+#main{
+	background-color:#FEFC8B;
+	padding-top:10px;
+    width:800px;
+	height:400px;
+    margin:20px auto;
+	outline:1px solid #00000;
+    border: 3px solid #EF6A22;
+    border-radius: 10px;
+}
+#main h1{
+	outline:0px solid #cc0000;
+	color:#000000;
+	text-align:center;
+	padding-top:90px;
+	padding-right:10px;
+	font: 36px Verdana;
+	background-image:url(images/logo.png);
+    background-repeat:no-repeat;
+    background-position:143px 99px;
+    float:center;
+}
+
+#p1 {
+	background-color:#FED06E;
+	overline:0px solid #cc0000;
+	width:800px;
+	height:40px;
+	border-radius:10px;
+}	
+#wrapper{
+	outline:0px solid #cc0000;
+	background-image:url("images/tel.jpg");
+	background-repeat:no-repeat;
+	background-position:0 110px;
+	background-attachment:fixed;
+}
+
